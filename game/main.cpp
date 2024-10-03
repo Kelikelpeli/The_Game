@@ -60,7 +60,7 @@ void GameDraw()
     EndDrawing();
 }
 
-int main()
+/*int main()
 {
     GameInit();
 
@@ -74,4 +74,4 @@ int main()
     GameCleanup();
 
     return 0;
-}
+}*/
